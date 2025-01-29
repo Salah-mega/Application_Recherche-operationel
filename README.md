@@ -10,3 +10,6 @@ Une application Python pour visualiser et exécuter des algorithmes de recherche
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/Salah-mega/Application_Recherche-operationel.git
+
+## Licence
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.   
