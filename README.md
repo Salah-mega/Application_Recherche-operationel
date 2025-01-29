@@ -1,5 +1,5 @@
 # Application_Recherche-operationel
-Une application Python pour visualiser et exécuter des algorithmes de recherche opérationnelle.
+Une application Desktop Python pour visualiser et exécuter des algorithmes de recherche opérationnelle.
 
 ## Fonctionnalités
 - Génération de graphes fortement connexes.
