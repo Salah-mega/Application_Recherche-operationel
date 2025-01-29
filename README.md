@@ -12,7 +12,7 @@ Une application Desktop Python pour visualiser et exécuter des algorithmes de r
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/Salah-mega/Application_Recherche-operationel.git
+   git clone https://github.com/Salah-mega/Application_Recherche-operationel.git/tree/master
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.   
